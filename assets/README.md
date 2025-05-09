@@ -1,1 +1,0 @@
-This is a weather map made on HTML, CSS and JavaScript.
